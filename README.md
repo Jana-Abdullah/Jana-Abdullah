@@ -7,11 +7,11 @@
 ###
 
 <h5 align="left">🚀 About Me<br>- Passionate about data and continuous learning  <br>- Interested in data analysis and visualization  <br>- Building real-world projects to improve my skills  <br>- Goal: become a professional data analyst<br><br>🧠 Skills<br>- SQL  <br>- Python  <br>- Excel  <br>- Data Cleaning  <br>- Data Analysis  <br>- Data Visualization  <br><br>📌 Projects<br>
- ###Tech Store BD – Sales & Marketing Analytics (SQL Project)<br>
+Tech Store BD – Sales & Marketing Analytics (SQL Project)
 <br>- Description: Built an end‑to‑end SQL analytics solution for a tech retail business to 
- analyze sales performance, customer behavior, product trends, and marketing campaign ROI using structured views and advanced analytical queries.<br>
-<br>- Tools: SQL Server, T‑SQL, SSMS.<br>
-<br>- Skills: Data Modeling, Analytical SQL Views, Window Functions, KPI Analysis, Campaign ROI Evaluation, Sales & Customer Insights<br>
+ analyze sales performance, customer behavior, product trends, and marketing campaign ROI using structured views and advanced analytical queries.
+<br>- Tools: SQL Server, T‑SQL, SSMS.
+<br>- Skills: Data Modeling, Analytical SQL Views, Window Functions, KPI Analysis, Campaign ROI Evaluation, Sales & Customer Insights
 <br>- Link: https:https://github.com/Jana-Abdullah/Tech-Store-Analysis-SQL/edit/main/README.md
 
   
