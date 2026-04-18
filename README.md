@@ -2,9 +2,11 @@
 
 ###
 
-<h5 align="left">Data analysis enthusiast with a strong interest in turning data into meaningful insights.  <br>Currently building projects using SQL and Python to strengthen my analytical and problem-solving skills.</h5>
+<h5 align="left">
+Data Analyst passionate about transforming raw data into actionable insights.<br>
+Skilled in SQL, Python, and data visualization, with hands-on experience building real-world analytics projects.
+</h5>
 
-###
 
 <h5 align="left">🚀 About Me<br>- Passionate about data and continuous learning  <br>- Interested in data analysis and visualization  <br>- Building real-world projects to improve my skills  <br>- Goal: become a professional data analyst<br><br>🧠 Skills<br>- SQL  <br>- Python  <br>- Excel  <br>- Data Cleaning  <br>- Data Analysis  <br>- Data Visualization  <br><br>📌 Projects<br>🛒 Tech Store Sales Analysis (SQL)<br> • Built a SQL analytics project to analyze sales performance, customer behavior, and product trends.<br> • Tools: SQL Server, T-SQL, SSMS, Power BI<br> • Skills: Data Modeling, Window Functions, KPIs, ROI Analysis<br> • 🔗 https://github.com/Jana-Abdullah/Tech-Store-Analysis-SQL<br><br><br>📊 Sample Sales Analysis (SQL)<br> • Analyzed revenue trends and product performance using CTEs and window functions.<br> • Tools: SQL Server, T-SQL<br> • Skills: Sales Analytics, KPIs, Pivot Analysis<br> • 🔗 https://github.com/Jana-Abdullah/Sample-Sales-Analysis-SQL<br><br>📈 Sales Management Analysis (SQL)<br> • Performed sales analytics to evaluate deal size and country-level performance.<br> • Tools: SQL Server, T-SQL<br> • Skills: Window Functions, CTEs, KPI Reporting<br> • 🔗 https://github.com/Jana-Abdullah/Sales-Management-Analysis-SQL<br><br>🌱 Currently Learning<br><br>- Advanced SQL queries  <br>- Python for data analysis  <br>- Data visualization techniques</h5>
 
