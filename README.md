@@ -16,6 +16,9 @@ Skilled in SQL, Python, and data visualization, with hands-on experience buildin
  • Tools: Python, Pandas, SQL Server, Power BI, DAX<br>
  • Skills: AML Analytics, Liquidity Risk Analysis, Financial Investigation, Behavioral Risk Profiling, Transaction Monitoring<br>
  • 🔗 https://github.com/Jana-Abdullah/AML-Liquidity-Risk-Analysis-System
+    
+  <br>  
+  <br>
   <br>🛒 Tech Store Sales Analysis (SQL)<br> • Built a SQL analytics project to analyze sales performance, customer behavior, and product trends.<br> • Tools: SQL Server, T-SQL, SSMS, Power BI<br> • Skills: Data Modeling, Window Functions, KPIs, ROI Analysis<br> • 🔗 https://github.com/Jana-Abdullah/Tech-Store-Analysis-SQL<br><br><br>📊 Sample Sales Analysis (SQL)<br> • Analyzed revenue trends and product performance using CTEs and window functions.<br> • Tools: SQL Server, T-SQL<br> • Skills: Sales Analytics, KPIs, Pivot Analysis<br> • 🔗 https://github.com/Jana-Abdullah/Sample-Sales-Analysis-SQL<br><br>📈 Sales Management Analysis (SQL)<br> • Performed sales analytics to evaluate deal size and country-level performance.<br> • Tools: SQL Server, T-SQL<br> • Skills: Window Functions, CTEs, KPI Reporting<br> • 🔗 https://github.com/Jana-Abdullah/Sales-Management-Analysis-SQL<br><br>🌱 Currently Learning<br><br>- Advanced SQL queries  <br>- Python for data analysis  <br>- Data visualization techniques</h5>
 
 ###
