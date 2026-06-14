@@ -50,7 +50,6 @@ I'm a Computer Science student and aspiring **Data Analyst** & **BI** with hands
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
 </p>
----
 
 ## 🚀 Featured Projects
 
