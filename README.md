@@ -10,9 +10,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
-  <a href="tel:+966507995826">
-    <img src="https://img.shields.io/badge/Phone-%2B966XXXXXXXXX-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
-  </a>
 </p>
 ---
 
@@ -145,11 +142,7 @@ I'm always open to discussing data analytics opportunities, collaborations, or j
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
-  <a href="tel:+966507995826">
-    <img src="https://img.shields.io/badge/Phone-%2B966XXXXXXXXX-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
-  </a>
-
-</p>
+ </p>
 
 <p align="center">
   <i>⭐ From <a href="https://github.com/Jana-Abdullah">Jana-Abdullah</a> — Thanks for visiting my profile!</i>
