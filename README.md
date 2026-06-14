@@ -1,20 +1,24 @@
 <h1 align="center">Hi, I'm Jana Abdullah 👋</h1>
-<h3 align="center">Data Analyst | Turning Raw Data into Actionable Insights</h3>
+<h3 align="center">Data Analyst & BI | Transforming Data into Business Decisions</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="www.linkedin.com/in/jana-alaryani831" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+
+  <a href="mailto:janaabdullah831@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
 
+  <a href="tel:+966507995826">
+    <img src="https://img.shields.io/badge/Phone-%2B966XXXXXXXXX-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+  </a>
+</p>
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science student and aspiring **Data Analyst** with hands-on experience building real-world analytics projects across the financial, retail, and real estate sectors.
+I'm a Computer Science student and aspiring **Data Analyst** & **BI** with hands-on experience building real-world analytics projects across the financial, retail, and real estate sectors.
 
 - 🔍 Passionate about transforming raw data into business insights
 - 📊 Specialized in SQL analytics, data visualization, and dashboard design
@@ -120,19 +124,6 @@ I'm a Computer Science student and aspiring **Data Analyst** with hands-on exper
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jana-Abdullah&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Jana's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jana-Abdullah&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jana-Abdullah&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced SQL query optimization
@@ -153,6 +144,11 @@ I'm always open to discussing data analytics opportunities, collaborations, or j
   <a href="mailto:janaabdullah831@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  
+  <a href="tel:+966507995826">
+    <img src="https://img.shields.io/badge/Phone-%2B966XXXXXXXXX-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+  </a>
+
 </p>
 
 <p align="center">
