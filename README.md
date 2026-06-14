@@ -22,9 +22,7 @@ I'm a Computer Science student and aspiring **Data Analyst** & **BI** with hands
 - 🏗️ Building end-to-end projects that combine SQL, Python, and Power BI
 - 🌱 Currently learning advanced SQL techniques and predictive analytics
 
----
 
-## 🛠️ Tech Stack
 ## 🛠️ Tech Stack
 
 **💻 Languages**
@@ -35,13 +33,16 @@ I'm a Computer Science student and aspiring **Data Analyst** & **BI** with hands
   <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 </p>
 
+
 **🗄️ Databases & BI**
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 </p>
+
 
 **📚 Python Libraries**
 <p>
