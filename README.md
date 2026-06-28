@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science student and aspiring **Data Analyst** & **BI** with hands-on experience building real-world analytics projects across the financial, retail, and real estate sectors.
+I'm a Computer Science student and aspiring **Data Analyst** & **BI** with hands-on experience building real-world analytics projects across the financial, retail, and real estate and healthcare sectors..
 
 - 🔍 Passionate about transforming raw data into business insights
 - 📊 Specialized in SQL analytics, data visualization, and dashboard design
@@ -27,6 +27,8 @@ I'm a Computer Science student and aspiring **Data Analyst** & **BI** with hands
 
 **💻 Languages**
 <p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -52,6 +54,19 @@ I'm a Computer Science student and aspiring **Data Analyst** & **BI** with hands
 </p>
 
 ## 🚀 Featured Projects
+
+### 🏥 Patient No-Show Prediction `🤖 Machine Learning`
+> End-to-end machine learning project predicting whether patients will miss medical appointments, enabling proactive scheduling and reminder targeting.
+
+- Built a complete ML pipeline (cleaning, feature engineering, EDA, modeling, evaluation) on 110K+ real-world appointment records
+- Engineered a waiting-time feature and identified it as the strongest predictor of no-shows (4.6% same-day vs 33% for 30+ day waits)
+- Handled severe class imbalance with class weighting, improving no-show recall from 2% to 58%; benchmarked Logistic Regression vs Random Forest using Recall, F1, and ROC-AUC
+- **Tech Stack:** Python · Pandas · scikit-learn · Seaborn · Matplotlib
+- **Domain Skills:** Predictive Modeling · Classification · Class Imbalance · Feature Engineering · Model Evaluation
+
+🔗 **[View Project →](https://github.com/Jana-Abdullah/Patient-No-Show-Prediction)**
+
+<br/>
 
 ### 🏦 AML & Liquidity Risk Analysis System
 > End-to-end analytics solution for detecting suspicious financial behavior and liquidity risks across banking networks.
@@ -115,7 +130,7 @@ I'm a Computer Science student and aspiring **Data Analyst** & **BI** with hands
 - Advanced SQL query optimization
 - Python for data analysis (Pandas, NumPy, Matplotlib, Seaborn)
 - Predictive analytics & Machine Learning fundamentals
-- Advanced Power BI & DAX techniques
+-
 
 ---
 
